@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d5e72f-7bb2-4933-ad52-d0aa78287312" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oeuf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ognion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PizzaBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Plat.java" afterDir="false" />
+    <list default="true" id="e7d5e72f-7bb2-4933-ad52-d0aa78287312" name="Changes" comment="implementation decorateur">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -44,6 +39,11 @@
     "onboarding.tips.debug.path": "C:/Users/rb/IdeaProjects/ExempleDecorateur1251/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +53,18 @@
       <option name="presentableId" value="Default" />
       <updated>1691067307230</updated>
     </task>
+    <task id="LOCAL-00001" summary="implementation decorateur">
+      <created>1691068697353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691068697353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implementation decorateur" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation decorateur" />
   </component>
 </project>
